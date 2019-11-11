@@ -15,6 +15,7 @@
  */
 
 using AutoMapper;
+using AutoMapper.Configuration;
 using System.Linq;
 using System.Security.Claims;
 
